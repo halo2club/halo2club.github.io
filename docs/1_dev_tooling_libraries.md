@@ -10,6 +10,7 @@
 - [`halo2-lib`](https://github.com/axiom-crypto/halo2-lib): primitives for writing circuits, including
     - `halo2-base`: an API using a simple vertical gate;
     - `halo2-ecc`: elliptic curve cryptography primitives
+- [`tachyon`](https://github.com/kroma-network/tachyon/tree/main/vendors/halo2) [WIP]: accelerated library using CUDA
 
 ## other primitives
 - [`halo2-rsa`](https://github.com/zkemail/halo2-rsa) (zk-email): RSA verification circuit
