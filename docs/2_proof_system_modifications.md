@@ -10,6 +10,7 @@ popular forks of `halo2` have incorporated proof system modifications across the
 
 ## interactive oracle proof (IOP)
 - `privacy-scaling-exploration`’s [`Challenge` API](https://github.com/privacy-scaling-explorations/halo2/blob/0c3e3b569519b86653a64f412bbce17e4e8acac4/halo2_proofs/src/plonk/circuit.rs#L586-L591), which introduces multiple phases to the IOP
+- `privacy-scaling-exploration`’s [`shuffle` API](https://github.com/privacy-scaling-explorations/halo2/blob/0c3e3b569519b86653a64f412bbce17e4e8acac4/halo2_proofs/src/plonk/circuit.rs#L1783-L1804), which introduces a multiset equality check to the IOP
 
 ### lookups
 - [`mvlookup`](https://github.com/geometryresearch/halo2/tree/pse-mvlookup): implementation of log-derivative based [MVLookup](https://github.com/Orbis-Tertius/MVlookups/blob/main/MVlookup.pdf)
