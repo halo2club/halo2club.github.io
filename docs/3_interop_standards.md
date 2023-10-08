@@ -5,6 +5,7 @@
     - [`maxgillett/halo2-fri-gadget`](https://github.com/maxgillett/halo2-fri-gadget)
     - [`DoHoonKim8/stark-verifier`](https://github.com/DoHoonKim8/stark-verifier)
 - [`halo2` backend for Noir](https://github.com/Ethan-000/halo2_backend) [WIP]
+- [`snark-verifier`](https://github.com/privacy-scaling-explorations/snark-verifier): aggregation circuit and EVM verifier generator for halo2-KZG proofs
 - [`halo2-solidity-verifier`](https://github.com/privacy-scaling-explorations/halo2-solidity-verifier): Solidity verifier generator for `halo2` proof with KZG polynomial commitment scheme on BN254
 
 ## arithmetisation
