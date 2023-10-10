@@ -8,6 +8,7 @@
 - [Taiga](https://github.com/anoma/taiga) (Anoma): a unified execution environment handling transparent, shielded, and private data access and operations.
 - [zkWASM](https://github.com/DelphinusLab/zkWasm) (Delphinus Lab): the WASM virtual machine written in `halo2` circuits.
 - [zkVM](https://github.com/darkrenaissance/darkfi/blob/master/src/zk/vm.rs) (DarkFi): a general-purpose zkSNARK virtual machine.
+
 ## machine learning
 - [ezkl](https://github.com/zkonduit/ezkl) (ZKonduit): an engine for doing inference for deep learning models and other computational graphs in a zk-SNARK.
 - [zkml](https://github.com/ddkang/zkml): a framework for constructing proofs of ML model execution in zk-SNARKs.
