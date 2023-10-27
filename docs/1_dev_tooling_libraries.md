@@ -1,5 +1,8 @@
 # 1. developer tooling and libraries
 *`halo2` has benefited from an incredible range of community-built developer tooling.*
+## frontends and interfaces
+- [halo2repl](https://halo2repl.dev): a web browser interface to write halo2 circuits with Javascript bindings for halo2-lib.
+
 ## domain-specific languages
 - [Chiquito](https://github.com/privacy-scaling-explorations/chiquito): a high-level structured language for implementing zero knowledge proof applications that compiles to the `halo2` backend.
 - [powdr](https://github.com/powdr-labs/powdr): an extended polynomial identity (PIL) and zk-focused assembly (zkASM) language written in Rust, focused on modularity and excellent developer experience. Supports `halo2` backend.
