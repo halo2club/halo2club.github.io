@@ -31,3 +31,4 @@
 
 ## others
 - [Zordle](https://github.com/nalinbhardwaj/zordle): zk Wordle
+- [EigenTrust (archived)](https://github.com/privacy-scaling-explorations/zk-eigentrust): implementation of [[KSM03](https://nlp.stanford.edu/pubs/eigentrust.pdf)]
